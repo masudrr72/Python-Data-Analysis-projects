@@ -1,0 +1,7 @@
+analysis/
+venv/
+.venv/
+data/
+check_myself/
+*.txt
+!requirements.txt
